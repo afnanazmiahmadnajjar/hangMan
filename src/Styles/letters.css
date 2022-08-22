@@ -1,0 +1,6 @@
+.available{
+    color: black;
+}
+.selected{
+    text-decoration-line: line-through;
+}
